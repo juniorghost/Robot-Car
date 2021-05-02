@@ -1,10 +1,9 @@
 /*
   ELE8392 RObotics and Control
   Written by Salim El Atache
-  lab5 part 1
-  This code will follow a pattern given in the first part of lab 5.
-
+  This code will follow a pattern.
 */
+
 // defining the pins
 
 #define MOTOR1_FORWARD  23
