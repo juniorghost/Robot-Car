@@ -1,7 +1,7 @@
 /*
  ELE8392 RObotics and Control
  Written by Salim EL Atache
-This code will first turn one motor forward for 1 second then turn the motors backward for 1 second and repeat
+This code will first turn one motor forward for 1 second then turn it backward for 1 second and repeat
  */
 
 #define MOTOR1_FORWARD  23
