@@ -1,10 +1,9 @@
 /*
-  ELE8392 RObotics and Control
+  Robotics and Control
   Written by Salim El Atache
-  lab6 PART2
   This code will allow the robot to follow the light.
-
 */
+
 #define MOTOR1_FORWARD  23
 #define MOTOR1_BACKWARD  25
 #define MOTOR2_FORWARD  27
