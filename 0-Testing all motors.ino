@@ -1,5 +1,6 @@
 /*
   ELE8392 RObotics and Control
+  Written by Salim El ATache
  */
 
 #define MOTOR1_FORWARD  23
