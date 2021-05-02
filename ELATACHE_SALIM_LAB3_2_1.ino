@@ -1,6 +1,6 @@
 /*
  ELE8392 RObotics and Control
- Written by Ala' Qadi
+ Written by Salim EL Atache
  Lab 3 Part 2.1
 This code will first turn one motor forward for 1 second then turn the motors backward for 1 second and repeat
  */
