@@ -1,7 +1,6 @@
 /*
   ELE8392 RObotics and Control
   Written by Salim El Atache
-  lab5 part 2 (potentiometer)
   This code will allow the pwm of the motors to be changed by a potentiometer
 */
 //defining the pins
